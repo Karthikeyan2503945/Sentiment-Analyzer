@@ -1,0 +1,10 @@
+{
+  "label_to_sentiment": {
+    "0": "Negative",
+    "1": "Neutral",
+    "2": "Positive"
+  },
+  "max_words": 10000,
+  "max_length": 150,
+  "vocab_size": 760
+}
